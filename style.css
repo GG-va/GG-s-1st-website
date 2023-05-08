@@ -113,6 +113,9 @@ p {
   h1 {
     font-size: 55px;
   }
+  h2 {
+    font-size: 35px;
+  }
   .primary-link {
     margin: 25px;
     padding: 10px -5px;
